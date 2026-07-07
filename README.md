@@ -25,14 +25,14 @@ React · Node.js · Express · MongoDB (Atlas) · JWT · Joi · bcrypt
 
 ### Server
 
-cd server
-npm install
-cp .env.example .env # fill in Mongo URI + secrets
-npm run seed # optional: create the admin user
-npm start
+1. cd server
+2. npm install
+3. cp .env.example .env # fill in Mongo URI + secrets
+4. npm run seed # optional: create the admin user
+5. npm start
 
 ### Client
 
-cd client
-npm install
-npm start
+1. cd client
+2. npm install
+3. npm start
